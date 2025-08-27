@@ -1,0 +1,26 @@
+
+Python Version:
+    Python 3.x (recommended Python 3.7 or later).
+
+Software Requirements:
+
+Python Packages:
+    Install with:
+
+    pip install
+	keras
+	streamlit
+	matplotlib
+	nltk
+	numpy
+	pandas
+	safetensors
+	seaborn
+	shap
+	scikit-learn
+	tensorflow
+	textblob
+	torch
+	tqdm
+	transformers
+	wordcloud
